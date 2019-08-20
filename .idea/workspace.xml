@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44fc2fd6-971d-43a7-a1cd-0e63c4b5cff9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/scraper.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/scraper.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="44fc2fd6-971d-43a7-a1cd-0e63c4b5cff9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566292947866</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Segmenting and Clustering Neighborhoods in Toronto---.">
+      <created>1566293258890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566293258890</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Segmenting and Clustering Neighborhoods in Toronto--2.">
+      <created>1566293481388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566293481388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Segmenting and Clustering Neighborhoods in Toronto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segmenting and Clustering Neighborhoods in Toronto" />
+    <MESSAGE value="Segmenting and Clustering Neighborhoods in Toronto---." />
+    <MESSAGE value="Segmenting and Clustering Neighborhoods in Toronto--2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Segmenting and Clustering Neighborhoods in Toronto--2." />
   </component>
 </project>
