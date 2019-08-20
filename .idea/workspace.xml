@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44fc2fd6-971d-43a7-a1cd-0e63c4b5cff9" name="Default Changelist" comment="" />
+    <list default="true" id="44fc2fd6-971d-43a7-a1cd-0e63c4b5cff9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/scraper.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/scraper.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PaKo9Jxr2gQqg2bW8Ma6ViD3VO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -93,9 +100,21 @@
       <updated>1566106939810</updated>
       <workItem from="1566106940948" duration="436000" />
     </task>
+    <task id="LOCAL-00001" summary="Segmenting and Clustering Neighborhoods in Toronto">
+      <created>1566292947866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566292947866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Segmenting and Clustering Neighborhoods in Toronto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segmenting and Clustering Neighborhoods in Toronto" />
   </component>
 </project>
