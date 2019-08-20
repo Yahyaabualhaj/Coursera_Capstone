@@ -17,6 +17,7 @@
   </component>
   <component name="ProjectId" id="1PaKo9Jxr2gQqg2bW8Ma6ViD3VO" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/node-v10.15.3-linux-x64/bin/npm" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
