@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44fc2fd6-971d-43a7-a1cd-0e63c4b5cff9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/w_3_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/capstone_project_data_science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/capstone_project_data_science.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/w_3_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w_3_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/w_3_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w_3_3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +111,10 @@
       <workItem from="1567944305575" duration="3047000" />
       <workItem from="1567947386812" duration="279000" />
       <workItem from="1567947877839" duration="2052000" />
-      <workItem from="1567951266758" duration="447000" />
+      <workItem from="1567951266758" duration="526000" />
+      <workItem from="1568017170473" duration="1790000" />
+      <workItem from="1568021124145" duration="8000" />
+      <workItem from="1568036712885" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Segmenting and Clustering Neighborhoods in Toronto">
       <created>1566292947866</created>
@@ -143,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566293638986</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Segmenting and Clustering Neighborhoods in Toronto--4.">
+      <created>1567951768818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567951768818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +175,7 @@
     <MESSAGE value="Segmenting and Clustering Neighborhoods in Toronto---." />
     <MESSAGE value="Segmenting and Clustering Neighborhoods in Toronto--2." />
     <MESSAGE value="Segmenting and Clustering Neighborhoods in Toronto--3." />
-    <option name="LAST_COMMIT_MESSAGE" value="Segmenting and Clustering Neighborhoods in Toronto--3." />
+    <MESSAGE value="Segmenting and Clustering Neighborhoods in Toronto--4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Segmenting and Clustering Neighborhoods in Toronto--4." />
   </component>
 </project>
