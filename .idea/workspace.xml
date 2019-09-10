@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44fc2fd6-971d-43a7-a1cd-0e63c4b5cff9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/models/refe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/w_3_4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/w_3_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w_3_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/w_3_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w_3_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/w_3_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w_3_3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -30,10 +30,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notebooks" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
