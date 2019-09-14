@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44fc2fd6-971d-43a7-a1cd-0e63c4b5cff9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/Final_capstone_prject.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/capstone_project_data_science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/capstone_project_data_science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/w_3_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w_3_3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/w_3_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w_3_4.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,10 +49,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/data_science_venv" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -140,6 +141,10 @@
       <workItem from="1568017170473" duration="1790000" />
       <workItem from="1568021124145" duration="8000" />
       <workItem from="1568036712885" duration="1963000" />
+      <workItem from="1568441924411" duration="6750000" />
+      <workItem from="1568455145403" duration="3604000" />
+      <workItem from="1568466366731" duration="310000" />
+      <workItem from="1568473992699" duration="1582000" />
     </task>
     <task id="LOCAL-00001" summary="Segmenting and Clustering Neighborhoods in Toronto">
       <created>1566292947866</created>
